@@ -22,9 +22,11 @@ bash
 Copiar código
 
 ## 🚀 Como usar  
-1. Clone ou baixe o repositório:  
-   ```bash
-   git clone https://github.com/GlawberSantos/formulario_matricula.git
+1. Clone ou baixe o repositório:
+   
+bash
+git clone https://github.com/GlawberSantos/formulario_matricula.git
+
 Navegue até o diretório:
 
 bash

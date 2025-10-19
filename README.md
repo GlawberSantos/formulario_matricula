@@ -1,3 +1,6 @@
+![Banner do projeto](./banner.png)
+
+
 # Formulário de Matrícula Responsivo 🎓  
 Uma página web simples para matrícula de alunos/unidades de ensino, construída com **HTML5** e **CSS3**.  
 Hospedado em: [Demo Online](https://glawbersantos.github.io/formulario_matricula/)
@@ -54,8 +57,3 @@ Distribuído sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
 
 yaml
 Copiar código
-
----
-
-Se quiser, posso **gerar para você um banner/thumbnail** pronto (por exemplo, com um mock-up do formulário) que você pode colocar no README para ficar visualmente mais atraente — quer que eu monte isso pra você?
-::contentReference[oaicite:4]{index=4}
